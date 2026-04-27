@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayank1965
-- 👀 I’m interested in Data analytics 
+- 👀 I’m interested in Data analytics,HR Analytics 
 - 🌱 I’m currently learning SQL and PowerBi
 - 💞️ I’m looking to collaborate on SQL
 - 📫 How to reach me ... maytssm@gmail.com
